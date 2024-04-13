@@ -3601,7 +3601,7 @@ evodata SPECIES_AZURILL
 evodata SPECIES_NOSEPASS
     evolution EVO_LEVEL_ELECTRIC_FIELD, 0, SPECIES_PROBOPASS
     evolution EVO_STONE, ITEM_THUNDER_STONE, SPECIES_PROBOPASS
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 22, SPECIES_PROBOPASS
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -3612,7 +3612,7 @@ evodata SPECIES_NOSEPASS
 
 evodata SPECIES_SKITTY
     evolution EVO_STONE, ITEM_MOON_STONE, SPECIES_DELCATTY
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 22, SPECIES_DELCATTY
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -3671,7 +3671,7 @@ evodata SPECIES_ARON
     terminateevodata
 
 evodata SPECIES_LAIRON
-    evolution EVO_LEVEL, 42, SPECIES_AGGRON
+    evolution EVO_LEVEL, 55, SPECIES_AGGRON
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -3792,7 +3792,7 @@ evodata SPECIES_ILLUMISE
 
 evodata SPECIES_ROSELIA
     evolution EVO_STONE, ITEM_SHINY_STONE, SPECIES_ROSERADE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 40, SPECIES_ROSERADE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -4883,7 +4883,7 @@ evodata SPECIES_LUXRAY
     terminateevodata
 
 evodata SPECIES_BUDEW
-    evolution EVO_FRIENDSHIP_DAY, 0, SPECIES_ROSELIA
+    evolution EVO_LEVEL, 16, SPECIES_ROSELIA
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
