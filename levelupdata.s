@@ -8619,27 +8619,38 @@ levelup SPECIES_SEVIPER
 
 
 levelup SPECIES_LUNATONE
-    learnset MOVE_MOONBLAST, 1
-    learnset MOVE_MOONLIGHT, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_HARDEN, 1
     learnset MOVE_CONFUSION, 1
     learnset MOVE_ROCK_THROW, 1
-    learnset MOVE_POWER_GEM, 1
-    learnset MOVE_PSYSHOCK, 1
     learnset MOVE_HYPNOSIS, 5
     learnset MOVE_ROCK_POLISH, 9
     learnset MOVE_PSYWAVE, 13
     learnset MOVE_ROCK_SLIDE, 17
     learnset MOVE_EMBARGO, 17
+    learnset MOVE_STEALTH_ROCK, 19
     learnset MOVE_PSYSHOCK, 20
+    learnset MOVE_ANCIENT_POWER, 23
     learnset MOVE_COSMIC_POWER, 25
     learnset MOVE_PSYCHIC, 29
     learnset MOVE_HEAL_BLOCK, 33
     learnset MOVE_STONE_EDGE, 35
+    learnset MOVE_MOONLIGHT, 38
     learnset MOVE_FUTURE_SIGHT, 40
+    learnset MOVE_POWER_GEM, 43
     learnset MOVE_MAGIC_ROOM, 46
     learnset MOVE_EXPLOSION, 47
+    learnset MOVE_STORED_POWER, 52
+    learnset MOVE_CALM_MIND, 55
+    learnset MOVE_EARTH_POWER, 60
+    learnset MOVE_MOONBLAST, 65
+    learnset MOVE_DARK_PULSE, 70
+    learnset MOVE_OMINOUS_WIND, 75
+    learnset MOVE_FOCUS_BLAST, 80
+    learnset MOVE_HYPER_BEAM, 85
+    learnset MOVE_MIRROR_MOVE, 90
+    learnset MOVE_MIRROR_SHOT, 95
+    learnset MOVE_FLASH_CANNON, 100
     terminatelearnset
 
 
