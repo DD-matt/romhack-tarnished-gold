@@ -5136,7 +5136,7 @@ evodata SPECIES_DRIFBLIM
 
 evodata SPECIES_BUNEARY
     evolution EVO_FRIENDSHIP, 0, SPECIES_LOPUNNY
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 20, SPECIES_LOPUNNY
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
