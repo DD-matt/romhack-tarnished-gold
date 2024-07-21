@@ -3395,7 +3395,7 @@ evodata SPECIES_KIRLIA
     terminateevodata
 
 evodata SPECIES_GARDEVOIR
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_HAS_MOVE, MOVE_LEAF_BLADE, SPECIES_GALLADE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -5711,7 +5711,7 @@ evodata SPECIES_PORYGON_Z
     terminateevodata
 
 evodata SPECIES_GALLADE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_HAS_MOVE, MOVE_MOONBLAST, SPECIES_GARDEVOIR
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -5879,7 +5879,7 @@ evodata SPECIES_CRESSELIA
     terminateevodata
 
 evodata SPECIES_PHIONE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_HAS_MOVE, MOVE_PLAY_ROUGH, SPECIES_MANAPHY
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
