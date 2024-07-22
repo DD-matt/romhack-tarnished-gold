@@ -6748,7 +6748,7 @@ evodata SPECIES_LIEPARD
 
 evodata SPECIES_PANSAGE
     evolution EVO_STONE, ITEM_LEAF_STONE, SPECIES_SIMISAGE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 20, SPECIES_SIMISAGE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6759,10 +6759,10 @@ evodata SPECIES_PANSAGE
     terminateevodata
 
 evodata SPECIES_SIMISAGE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 30, SPECIES_SIMISEAR
+    evolution EVO_LEVEL, 50, SPECIES_SIMISEAR
+    evolution EVO_LEVEL, 70, SPECIES_SIMISEAR
+    evolution EVO_LEVEL, 90, SPECIES_SIMISEAR
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6772,7 +6772,7 @@ evodata SPECIES_SIMISAGE
 
 evodata SPECIES_PANSEAR
     evolution EVO_STONE, ITEM_FIRE_STONE, SPECIES_SIMISEAR
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 20, SPECIES_SIMISEAR
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6783,10 +6783,10 @@ evodata SPECIES_PANSEAR
     terminateevodata
 
 evodata SPECIES_SIMISEAR
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 35, SPECIES_SIMIPOUR
+    evolution EVO_LEVEL, 55, SPECIES_SIMIPOUR
+    evolution EVO_LEVEL, 75, SPECIES_SIMIPOUR
+    evolution EVO_LEVEL, 95, SPECIES_SIMIPOUR
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6796,7 +6796,7 @@ evodata SPECIES_SIMISEAR
 
 evodata SPECIES_PANPOUR
     evolution EVO_STONE, ITEM_WATER_STONE, SPECIES_SIMIPOUR
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 20, SPECIES_SIMIPOUR
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6807,10 +6807,10 @@ evodata SPECIES_PANPOUR
     terminateevodata
 
 evodata SPECIES_SIMIPOUR
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 40, SPECIES_SIMISAGE
+    evolution EVO_LEVEL, 60, SPECIES_SIMISAGE
+    evolution EVO_LEVEL, 80, SPECIES_SIMISAGE
+    evolution EVO_LEVEL, 100, SPECIES_SIMISAGE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6820,7 +6820,7 @@ evodata SPECIES_SIMIPOUR
 
 evodata SPECIES_MUNNA
     evolution EVO_STONE, ITEM_MOON_STONE, SPECIES_MUSHARNA
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 25, SPECIES_MUSHARNA
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6917,7 +6917,7 @@ evodata SPECIES_ROGGENROLA
 evodata SPECIES_BOLDORE
     evolution EVO_TRADE, 0, SPECIES_GIGALITH
     evolution EVO_STONE, ITEM_LINKING_CORD, SPECIES_GIGALITH
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 36, SPECIES_GIGALITH
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6940,7 +6940,7 @@ evodata SPECIES_GIGALITH
 
 evodata SPECIES_WOOBAT
     evolution EVO_FRIENDSHIP, 0, SPECIES_SWOOBAT
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 25, SPECIES_SWOOBAT
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -7013,7 +7013,7 @@ evodata SPECIES_TIMBURR
 evodata SPECIES_GURDURR
     evolution EVO_TRADE, 0, SPECIES_CONKELDURR
     evolution EVO_STONE, ITEM_LINKING_CORD, SPECIES_CONKELDURR
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_LEVEL, 50, SPECIES_GURDURR
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
