@@ -2,13 +2,15 @@
 .thumb
 
 .include "armips/include/macros.s"
-.include "armips/include/monnums.s"
-.include "armips/include/itemnums.s"
 .include "armips/include/constants.s"
-.include "armips/include/abilities.s"
 .include "armips/include/config.s"
 
-// all the mon personal data.  tm learnsets are specifically in tmlearnset.s
+.include "asm/include/abilities.inc"
+.include "asm/include/items.inc"
+.include "asm/include/species.inc"
+
+
+// all the mon personal data.  tm learnsets are specifically in tmlearnset.txt
 // basestats and evyields fields are formatted as such:  hp atk def speed spatk spdef
 
 
@@ -9937,7 +9939,7 @@ mondata SPECIES_GLISCOR, "Gliscor"
     abilities ABILITY_POISON_HEAL, ABILITY_LEVITATE
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
-    mondexentry SPECIES_GLISCOR, "Its flight is soundless. It uses its\nlengthy tail to carry off its prey...\nThen its elongated fangs do the rest."
+    mondexentry SPECIES_GLISCOR, "Its flight is soundless. It uses its\nlengthy tail to carry off its prey.\nThen its elongated fangs do the rest."
     mondexclassification SPECIES_GLISCOR, "Fang Scorpion Pokémon"
     mondexheight SPECIES_GLISCOR, "6’07”"
     mondexweight SPECIES_GLISCOR, "93.7 lbs."
@@ -9979,7 +9981,7 @@ mondata SPECIES_PORYGON_Z, "Porygon-Z"
     abilities ABILITY_ADAPTABILITY, ABILITY_PIXILATE
     runchance 0
     colorflip BODY_COLOR_RED, 0
-    mondexentry SPECIES_PORYGON_Z, "Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error..."
+    mondexentry SPECIES_PORYGON_Z, "Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error."
     mondexclassification SPECIES_PORYGON_Z, "Virtual Pokémon"
     mondexheight SPECIES_PORYGON_Z, "2’11”"
     mondexweight SPECIES_PORYGON_Z, "75.0 lbs."

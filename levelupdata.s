@@ -2,27 +2,19 @@
 .thumb
 
 .include "armips/include/macros.s"
-.include "armips/include/monnums.s"
-.include "armips/include/movenums.s"
 
+.include "asm/include/moves.inc"
+.include "asm/include/species.inc"
 // the level up moves for each pokemon
-
 
 levelup SPECIES_NONE
     terminatelearnset
-
 
 levelup SPECIES_BULBASAUR
 	learnset MOVE_ANCIENT_POWER, 20
 	learnset MOVE_GROWTH, 20
 	learnset MOVE_TRAILBLAZE, 20
 	learnset MOVE_LEECH_SEED, 20
-	learnset MOVE_LEECH_SEED, 8
-	learnset MOVE_GROWTH, 14
-	learnset MOVE_POISON_POWDER, 14
-	learnset MOVE_SLEEP_POWDER, 14
-	learnset MOVE_RAZOR_LEAF, 15
-	learnset MOVE_BITE, 18
 	learnset MOVE_SWEET_SCENT, 22
 	learnset MOVE_SEED_BOMB, 26
 	learnset MOVE_HONE_CLAWS, 26
@@ -23686,11 +23678,7 @@ levelup SPECIES_MEGA_AUDINO
     learnset MOVE_DOUBLE_SLAP, 10
     learnset MOVE_ATTRACT, 15
     learnset MOVE_SECRET_POWER, 20
-    //learnset MOVE_ENTRAINMENT, 25
     learnset MOVE_TAKE_DOWN, 30
-    //learnset MOVE_HEAL_PULSE, 35
-    //learnset MOVE_AFTER_YOU, 40
-    //learnset MOVE_SIMPLE_BEAM, 45
     learnset MOVE_DOUBLE_EDGE, 50
     learnset MOVE_LAST_RESORT, 55
     terminatelearnset
@@ -27976,7 +27964,6 @@ levelup SPECIES_FRILLISH_FEMALE
     learnset MOVE_OMINOUS_WIND, 27
     learnset MOVE_BRINE, 32
     learnset MOVE_RAIN_DANCE, 37
-    //learnset MOVE_HEX, 43
     learnset MOVE_HYDRO_PUMP, 49
     learnset MOVE_WRING_OUT, 55
     learnset MOVE_WATER_SPOUT, 61
@@ -27996,7 +27983,6 @@ levelup SPECIES_JELLICENT_FEMALE
     learnset MOVE_OMINOUS_WIND, 27
     learnset MOVE_BRINE, 32
     learnset MOVE_RAIN_DANCE, 37
-    //learnset MOVE_HEX, 45
     learnset MOVE_HYDRO_PUMP, 53
     learnset MOVE_WRING_OUT, 61
     learnset MOVE_WATER_SPOUT, 69
