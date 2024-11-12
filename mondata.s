@@ -3270,7 +3270,7 @@ mondata SPECIES_MEGANIUM, "Meganium"
 
 
 mondata SPECIES_CYNDAQUIL, "Cyndaquil"
-    basestats 85, 90, 85, 110, 200, 150
+    basestats 85, 90, 85, 65, 60, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 100
     baseexp 0 // defined in baseexp.s
