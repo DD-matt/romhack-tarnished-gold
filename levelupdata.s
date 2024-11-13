@@ -3919,7 +3919,7 @@ levelup SPECIES_MEW
 levelup SPECIES_CHIKORITA
     learnset MOVE_TACKLE, 1
     learnset MOVE_GROWL, 1
-    learnset MOVE_RAZOR_LEAF, 6
+    learnset MOVE_RAZOR_LEAF, 5
 	learnset MOVE_LEECH_SEED, 6
 	learnset MOVE_TRAILBLAZE, 8
     learnset MOVE_POISON_POWDER, 9
@@ -4049,7 +4049,7 @@ levelup SPECIES_TYPHLOSION
 levelup SPECIES_TOTODILE
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
-    learnset MOVE_WATER_GUN, 6
+    learnset MOVE_WATER_GUN, 5
     learnset MOVE_RAGE, 8
     learnset MOVE_BITE, 13
     learnset MOVE_SCARY_FACE, 15
