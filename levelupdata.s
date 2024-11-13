@@ -5844,7 +5844,7 @@ levelup SPECIES_SKARMORY
     learnset MOVE_METAL_CLAW, 10
     learnset MOVE_FURY_ATTACK, 12
     learnset MOVE_AIR_CUTTER, 12
-    learnset MOVE_STEALTH_ROCK 15
+    learnset MOVE_STEALTH_ROCK, 15
     learnset MOVE_WING_ATTACK, 20
     learnset MOVE_FEINT, 20
     learnset MOVE_AGILITY, 23
@@ -7261,7 +7261,7 @@ levelup SPECIES_GARDEVOIR
     learnset MOVE_LEAF_BLADE, 60
     learnset MOVE_MOONBLAST, 62
     learnset MOVE_PROTECT, 66
-    learnset MOVE_ICE_BEAM 70
+    learnset MOVE_ICE_BEAM, 70
     learnset MOVE_TRI_ATTACK, 75
     learnset MOVE_FOCUS_BLAST, 80
     learnset MOVE_LEAF_BLADE, 80
@@ -7518,7 +7518,7 @@ levelup SPECIES_WHISMUR
     learnset MOVE_ASTONISH, 8
     learnset MOVE_SONIC_BOOM, 9
     learnset MOVE_HOWL, 10
-    learnset MOVE_STOMP 15
+    learnset MOVE_STOMP, 15
     learnset MOVE_REST, 22
     learnset MOVE_SLEEP_TALK, 24
     learnset MOVE_SUPERSONIC, 24
@@ -7703,7 +7703,7 @@ levelup SPECIES_DELCATTY
     learnset MOVE_ME_FIRST, 50
     learnset MOVE_HYPER_BEAM, 55
     learnset MOVE_HYPER_VOICE, 60
-    learnset MOVE_SUPER_FANG 65
+    learnset MOVE_SUPER_FANG, 65
     learnset MOVE_IRON_TAIL, 70
     learnset MOVE_GIGA_IMPACT, 75
     learnset MOVE_MOONBLAST, 80
@@ -9483,7 +9483,7 @@ levelup SPECIES_RELICANTH
     learnset MOVE_SELF_DESTRUCT, 60
     learnset MOVE_WILD_CHARGE, 65
     learnset MOVE_WAVE_CRASH, 70
-    learnset MOVE_EARTHQUAKE 75
+    learnset MOVE_EARTHQUAKE, 75
     learnset MOVE_FACADE, 80
     learnset MOVE_GYRO_BALL, 85
     learnset MOVE_IRON_HEAD, 90
