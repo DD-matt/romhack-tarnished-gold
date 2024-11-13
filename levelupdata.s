@@ -13915,7 +13915,7 @@ levelup SPECIES_ROGGENROLA
     terminatelearnset
 
 
-levelup SPECIES_BOLDOREs
+levelup SPECIES_BOLDORE
     learnset MOVE_ROCK_SLIDE, 25
     learnset MOVE_BODY_SLAM, 30
     learnset MOVE_STEALTH_ROCK, 36
@@ -16415,7 +16415,7 @@ levelup SPECIES_VULLABY
     terminatelearnset
 
 
-levelup SPECIES_MANDIBUZZs
+levelup SPECIES_MANDIBUZZ
     learnset MOVE_TOXIC, 54
     learnset MOVE_ROCK_SLIDE, 58
     learnset MOVE_STONE_EDGE, 62
