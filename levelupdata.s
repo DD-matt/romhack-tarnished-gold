@@ -17,7 +17,7 @@ levelup SPECIES_BULBASAUR
 	learnset MOVE_ANCIENT_POWER, 20
 	learnset MOVE_GROWTH, 20
 	learnset MOVE_TRAILBLAZE, 20
-	learnset MOVE_LEECH_SEED, 20
+	// learnset MOVE_LEECH_SEED, 20
 	learnset MOVE_SWEET_SCENT, 22
 	learnset MOVE_SEED_BOMB, 26
 	learnset MOVE_HONE_CLAWS, 26
