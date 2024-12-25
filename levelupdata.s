@@ -14,9 +14,10 @@ levelup SPECIES_NONE
 
 
 levelup SPECIES_BULBASAUR
-	learnset MOVE_ANCIENT_POWER, 20
-	learnset MOVE_GROWTH, 20
+	learnset MOVE_ANCIENT_POWER, 5
+	learnset MOVE_GROWTH, 5
 	learnset MOVE_TRAILBLAZE, 20
+	learnset MOVE_LEECH_SEED, 20
 	learnset MOVE_SWEET_SCENT, 22
 	learnset MOVE_SEED_BOMB, 26
 	learnset MOVE_HONE_CLAWS, 26
@@ -12162,6 +12163,22 @@ levelup SPECIES_PORYGON_Z
 
 
 levelup SPECIES_GALLADE
+    learnset MOVE_IMPRISON, 1
+    learnset MOVE_PSYBEAM, 1
+    learnset MOVE_LIFE_DEW, 1
+    learnset MOVE_CHARM, 1
+    learnset MOVE_CALM_MIND, 1
+    learnset MOVE_PSYCHIC, 1
+    learnset MOVE_DREAM_EATER, 1
+    learnset MOVE_FUTURE_SIGHT, 1
+    learnset MOVE_LEER, 1
+    learnset MOVE_FURY_CUTTER, 1
+    learnset MOVE_DOUBLE_TEAM, 1
+    learnset MOVE_CONFUSION, 1
+    learnset MOVE_STORED_POWER, 1
+    learnset MOVE_CLOSE_COMBAT, 1
+    learnset MOVE_LEAF_BLADE, 1
+    learnset MOVE_TELEPORT, 1
     learnset MOVE_SWORDS_DANCE, 35
     learnset MOVE_FALSE_SWIPE, 35
     learnset MOVE_NIGHT_SLASH, 35
@@ -15292,7 +15309,7 @@ levelup SPECIES_VANILLITE
     learnset MOVE_SPIKES, 18
     learnset MOVE_UPROAR, 19
     learnset MOVE_REFLECT, 21
-    learnset MOVE_LIGHT_SCREEN`, 21
+    learnset MOVE_LIGHT_SCREEN, 21
     learnset MOVE_ICICLE_SPEAR, 24
     learnset MOVE_MIRROR_SHOT, 26
     learnset MOVE_HAIL, 29
@@ -16534,7 +16551,7 @@ levelup SPECIES_DEINO
     learnset MOVE_CHARGE_BEAM, 42
     learnset MOVE_BODY_SLAM, 45
     learnset MOVE_DRAGON_RUSH, 47
-    learnset MOVE_WILD_CHARGEs, 48
+    learnset MOVE_WILD_CHARGE, 48
     learnset MOVE_TWIN_BEAM, 50
     learnset MOVE_HYPER_VOICE, 52
     learnset MOVE_NASTY_PLOT, 56
