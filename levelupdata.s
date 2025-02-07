@@ -7581,9 +7581,8 @@ levelup SPECIES_MAKUHITA
     learnset MOVE_WHIRLWIND, 16
     learnset MOVE_KNOCK_OFF, 19
     learnset MOVE_VITAL_THROW, 22
-    learnset MOVE_SMELLING_SALT, 24
     learnset MOVE_BELLY_DRUM, 25
-    learnset MOVE_SMELLING_SALT, 28
+    learnset MOVE_PROTECT, 28
     learnset MOVE_SEISMIC_TOSS, 31
     learnset MOVE_WAKE_UP_SLAP, 34
     learnset MOVE_ENDURE, 37
