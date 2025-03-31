@@ -257,7 +257,7 @@ mondata SPECIES_METAPOD, "Metapod"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHED_SKIN, ABILITY_ANGER_POINT
+    abilities ABILITY_ANGER_POINT, ABILITY_ANGER_POINT
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_METAPOD, "Inside the shell, it is soft and\nweak as it prepares to evolve.\nIt stays motionless in the shell."
@@ -320,7 +320,7 @@ mondata SPECIES_KAKUNA, "Kakuna"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHED_SKIN, ABILITY_ANGER_POINT
+    abilities ABILITY_ANGER_POINT, ABILITY_ANGER_POINT
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
     mondexentry SPECIES_KAKUNA, "Although it is a cocoon, it can\nmove a little. It can extend its\npoison barb if it is attacked."
@@ -1406,7 +1406,7 @@ mondata SPECIES_MACHOP, "Machop"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_FOCUS_BAND
+    items ITEM_FLAME_ORB, ITEM_FLAME_ORB
     genderratio 63
     eggcycles 20
     basefriendship 50
