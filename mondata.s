@@ -1469,7 +1469,7 @@ mondata SPECIES_BELLSPROUT, "Bellsprout"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_LIFE_ORB, ITEM_EXPERT_BELT
     genderratio 127
     eggcycles 20
     basefriendship 70
@@ -3779,7 +3779,7 @@ mondata SPECIES_MAREEP, "Mareep"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_ORAN_BERRY, ITEM_NONE
     genderratio 127
     eggcycles 20
     basefriendship 70
@@ -3821,7 +3821,7 @@ mondata SPECIES_AMPHAROS, "Ampharos"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_LUM_BERRY, ITEM_SITRUS_BERRY
     genderratio 127
     eggcycles 20
     basefriendship 70
@@ -4976,7 +4976,7 @@ mondata SPECIES_TYROGUE, "Tyrogue"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_FLAME_ORB, ITEM_FLAME_ORB
     genderratio 0
     eggcycles 25
     basefriendship 50
@@ -8439,7 +8439,7 @@ mondata SPECIES_KRICKETOT, "Kricketot"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_METRONOME
+    items ITEM_ORAN_BERRY, ITEM_METRONOME
     genderratio 127
     eggcycles 15
     basefriendship 70
@@ -9048,7 +9048,7 @@ mondata SPECIES_HONCHKROW, "Honchkrow"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_RAZOR_CLAW, ITEM_RAZOR_CLAW
     genderratio 127
     eggcycles 20
     basefriendship 35
@@ -9405,7 +9405,7 @@ mondata SPECIES_RIOLU, "Riolu"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_LIFE_ORB, ITEM_LIFE_ORB
     genderratio 31
     eggcycles 25
     basefriendship 50
@@ -12240,7 +12240,7 @@ mondata SPECIES_TIMBURR, "Timburr"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_FLAME_ORB, ITEM_AIR_BALLOON
     genderratio 63
     eggcycles 20
     basefriendship 70
