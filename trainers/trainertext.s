@@ -234,7 +234,7 @@ _0144: // Trainer 498
 
 _014C: // Trainer 20
     trainertextentry  20, TEXT_LAST_MON_CRITICAL, "The wind is finally with us!\n"
-    trainertextentry  20, TEXT_LAST_MON_SENT_OUT, "We can still fly!\n"
+    trainertextentry  20, TEXT_LAST_MON_SENT_OUT, "Free as the breeze!\n"
     trainertextentry  20, TEXT_DEFEATED_IN_BATTLE, "I understand...\nI’ll bow out gracefully.\n"
 
 _0158: // Trainer 21
@@ -1161,22 +1161,26 @@ _0A08: // Trainer 412
 _0A14: // Trainer 8
     trainertextentry   8, TEXT_NOTICE_IN_OVERWORLD, "I just lost, so I’m trying to find\nmore Pokémon.\rWait! You look weak! Come on,\nlet’s battle!\r"
     trainertextentry   8, TEXT_DEFEATED_IN_BATTLE, "Oh...\nI’m out of Pokémon that can fight.\n"
+    trainertextentry 8, TEXT_LAST_MON_SENT_OUT, "Not done yet!!!\n"
     trainertextentry   8, TEXT_DEFEATED_IN_OVERWORLD, "I knew it--if you don’t have many\nPokémon, battles are harder!\fI need to catch more Pokémon!\n"
     trainertextentry   8, TEXT_REMATCH_IN_OVERWORLD, "I’ve been waiting!\nLet’s battle now!\r"
 
 _0A24: // Trainer 47
     trainertextentry  47, TEXT_NOTICE_IN_OVERWORLD, "You’re a Pokémon Trainer, right?\nThen you have to battle!\r"
+    trainertextentry 47, TEXT_LAST_MON_SENT_OUT, "All out assult!!!\n"
     trainertextentry  47, TEXT_DEFEATED_IN_BATTLE, "That’s strange.\nI won before.\n"
     trainertextentry  47, TEXT_DEFEATED_IN_OVERWORLD, "Becoming a good Trainer is really tough.\nI’m going to battle other people to\fget better.\n"
 
 _0A30: // Trainer 249
     trainertextentry 249, TEXT_NOTICE_IN_OVERWORLD, "Instead of a bug Pokémon, I found\na Trainer!\r"
+    trainertextentry 249, TEXT_LAST_MON_SENT_OUT, "This one is special...\n"
     trainertextentry 249, TEXT_DEFEATED_IN_BATTLE, "Argh! You’re too strong!\n"
     trainertextentry 249, TEXT_DEFEATED_IN_OVERWORLD, "I ran out of Poké Balls while I was\ncatching Pokémon.\rI should’ve bought some more...\n"
 
 _0A3C: // Trainer 4
     trainertextentry   4, TEXT_NOTICE_IN_OVERWORLD, "I caught a bunch of Pokémon.\nLet me battle with you!\r"
     trainertextentry   4, TEXT_DEFEATED_IN_BATTLE, "Awwwww...\n"
+    trainertextentry 4, TEXT_LAST_MON_SENT_OUT, "Never underestimate a bug!\n"
     trainertextentry   4, TEXT_DEFEATED_IN_OVERWORLD, "You can catch Pokémon even if you have\nsix with you.\rIf you catch one, it’ll go to your Box\nautomatically.\n"
     trainertextentry   4, TEXT_REMATCH_IN_OVERWORLD, "I was waiting for you. Let’s battle!\r"
 
@@ -1795,9 +1799,9 @@ _1020: // Trainer 53
     trainertextentry  53, TEXT_DEFEATED_IN_OVERWORLD, "As Pokémon grow stronger, so does\nthe Trainer.\rNo, wait. As the Trainer grows\nstronger, so do the Pokémon.\n"
 
 _102C: // Trainer 54
-    trainertextentry  54, TEXT_NOTICE_IN_OVERWORLD, "Let me see how much you trust\nyour Pokémon.\r"
-    trainertextentry  54, TEXT_DEFEATED_IN_BATTLE, "Yes, your trust is real!\n"
-    trainertextentry  54, TEXT_DEFEATED_IN_OVERWORLD, "It is not far to the Elder.\n"
+    trainertextentry  54, TEXT_NOTICE_IN_OVERWORLD, "...\r"
+    trainertextentry  54, TEXT_DEFEATED_IN_BATTLE, "..."
+    trainertextentry  54, TEXT_DEFEATED_IN_OVERWORLD, "..."
 
 _1038: // Trainer 52
     trainertextentry  52, TEXT_NOTICE_IN_OVERWORLD, "I sway like leaves in the wind...\r"
@@ -1811,6 +1815,7 @@ _1044: // Trainer 55
 
 _1050: // Trainer 290
     trainertextentry 290, TEXT_NOTICE_IN_OVERWORLD, "So good of you to come here!\rSprout Tower is a place of training.\nPeople and Pokémon test their bonds\fto build a bright future together.\fI am the final test.\rAllow me to check the ties between\nyou and your Pokémon!"
+    trainertextentry  290, TEXT_LAST_MON_SENT_OUT, "You have exceeded expecations\n"
     trainertextentry 290, TEXT_DEFEATED_IN_BATTLE, "Ah, excellent!\n"
     trainertextentry 290, TEXT_DEFEATED_IN_OVERWORLD, "You and your Pokémon should have no\nproblem using this move.\rTake this Flash TM.\n"
 
