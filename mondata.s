@@ -5186,7 +5186,7 @@ mondata SPECIES_LARVITAR, "Larvitar"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_LIFE_ORB, ITEM_TOXIC_ORB
     genderratio 127
     eggcycles 40
     basefriendship 35
@@ -5228,7 +5228,7 @@ mondata SPECIES_TYRANITAR, "Tyranitar"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_LIFE_ORB, ITEM_TOXIC_ORB
     genderratio 127
     eggcycles 40
     basefriendship 35
