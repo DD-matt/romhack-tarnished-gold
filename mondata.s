@@ -2078,7 +2078,7 @@ mondata SPECIES_KRABBY, "Krabby"
     catchrate 100
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_GRIP_CLAW, ITEM_QUICK_CLAW
     genderratio 127
     eggcycles 20
     basefriendship 50
@@ -4577,7 +4577,7 @@ mondata SPECIES_URSARING, "Ursaring"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_ORAN_BERRY, ITEM_SITRUS_BERRY
+    items ITEM_LIFE_ORB, ITEM_SITRUS_BERRY
     genderratio 127
     eggcycles 20
     basefriendship 70
@@ -6933,7 +6933,7 @@ mondata SPECIES_VIBRAVA, "Vibrava"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_BUG, EGG_GROUP_DRAGON
-    abilities ABILITY_LEVITATE, ABILITY_NONE
+    abilities ABILITY_LEVITATE, ABILITY_ARENA_TRAP
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_VIBRAVA, "It vibrates its wings vigorously,\ncreating ultrasonic waves that\ncause serious headaches."
@@ -6954,7 +6954,7 @@ mondata SPECIES_FLYGON, "Flygon"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_BUG, EGG_GROUP_DRAGON
-    abilities ABILITY_DRAGONS_MAW, ABILITY_DRAGONS_MAW
+    abilities ABILITY_ARENA_TRAP, ABILITY_LEVITATE
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_FLYGON, "It is nicknamed “The Desert\nSpirit” because the flapping of its\nwings sounds like a woman singing."
@@ -7059,7 +7059,7 @@ mondata SPECIES_ZANGOOSE, "Zangoose"
     basefriendship 70
     growthrate GROWTH_ERRATIC
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_GUTS, ABILITY_RIVALRY
+    abilities ABILITY_GUTS, ABILITY_POISON_HEAL
     runchance 0
     colorflip BODY_COLOR_WHITE, 0
     mondexentry SPECIES_ZANGOOSE, "Its fur would all stand on end if\nit smelled a SEVIPER nearby.\nIts sharp claws tear up its foes."
@@ -7080,7 +7080,7 @@ mondata SPECIES_SEVIPER, "Seviper"
     basefriendship 70
     growthrate GROWTH_FLUCTUATING
     egggroups EGG_GROUP_FIELD, EGG_GROUP_DRAGON
-    abilities ABILITY_INNER_FOCUS, ABILITY_RIVALRY
+    abilities ABILITY_INNER_FOCUS, ABILITY_INTIMIDATE
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_SEVIPER, "In battle, it uses its bladed tail to\ncounter any ZANGOOSE. It secretes\na deadly venom in its tail."

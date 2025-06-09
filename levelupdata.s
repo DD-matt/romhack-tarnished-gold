@@ -1841,11 +1841,11 @@ levelup SPECIES_TENTACRUEL
 levelup SPECIES_GEODUDE
     learnset MOVE_ROCK_THROW, 1
     learnset MOVE_DEFENSE_CURL, 1
-    learnset MOVE_MUD_SPORT, 3
+    learnset MOVE_MUD_SLAP, 3
     learnset MOVE_ROCK_POLISH, 6
     learnset MOVE_ROLLOUT, 10
     learnset MOVE_MAGNITUDE, 12
-    learnset MOVE_ROCK_TOMB, 16
+    learnset MOVE_ROCK_TOMB, 14
     learnset MOVE_SMACK_DOWN, 18
     learnset MOVE_BULLDOZE, 22
     learnset MOVE_SELF_DESTRUCT, 24
@@ -1965,6 +1965,17 @@ levelup SPECIES_SLOWPOKE
 
 
 levelup SPECIES_SLOWBRO
+    learnset MOVE_YAWN, 9
+    learnset MOVE_CONFUSION, 12
+    learnset MOVE_SHELL_SMASH, 16
+    learnset MOVE_HEADBUTT, 18
+    learnset MOVE_WATER_PULSE, 22
+	learnset MOVE_SHADOW_CLAW, 25
+    learnset MOVE_ZEN_HEADBUTT, 27
+    learnset MOVE_SURF, 30
+    learnset MOVE_AMNESIA, 33
+    learnset MOVE_SLACK_OFF, 34
+	learnset MOVE_CURSE, 37
 	learnset MOVE_CALM_MIND, 40
     learnset MOVE_PSYCHIC, 42
 	learnset MOVE_GYRO_BALL, 47
@@ -2221,6 +2232,8 @@ levelup SPECIES_SHELLDER
     learnset MOVE_TACKLE, 1
     learnset MOVE_WATER_GUN, 1
     learnset MOVE_WITHDRAW, 4
+    learnset MOVE_PROTECT, 7
+    learnset MOVE_CURSE, 10
     learnset MOVE_ICICLE_SPEAR, 13
     learnset MOVE_SUPERSONIC, 14
     learnset MOVE_LEER, 15
@@ -2413,7 +2426,7 @@ levelup SPECIES_KRABBY
     learnset MOVE_BUBBLE, 1
     learnset MOVE_VICE_GRIP, 5
     learnset MOVE_HARDEN, 7
-    learnset MOVE_LEER, 9
+    learnset MOVE_HONE_CLAWS, 9
     learnset MOVE_METAL_CLAW, 14
     learnset MOVE_MUD_SHOT, 15
     learnset MOVE_RAZOR_SHELL, 17
@@ -3518,7 +3531,7 @@ levelup SPECIES_OMANYTE
     learnset MOVE_ROLLOUT, 10
     learnset MOVE_SAND_ATTACK, 10
     learnset MOVE_WATER_GUN, 12
-	learnset MOVE_SPIKES, 15
+	learnset MOVE_SPIKES, 14
     learnset MOVE_LEER, 19
     learnset MOVE_MUD_SHOT, 25
 	learnset MOVE_STEALTH_ROCK, 27
@@ -3561,7 +3574,7 @@ levelup SPECIES_KABUTO
     learnset MOVE_SCRATCH, 5
     learnset MOVE_ABSORB, 6
     learnset MOVE_SAND_ATTACK, 15
-    learnset MOVE_LEER, 15
+    learnset MOVE_HONE_CLAWS, 14
     learnset MOVE_MUD_SHOT, 20
     learnset MOVE_AQUA_JET, 22
     learnset MOVE_ENDURE, 26
@@ -5585,7 +5598,7 @@ levelup SPECIES_TEDDIURSA
     learnset MOVE_HONE_CLAWS, 5
     learnset MOVE_FURY_SWIPES, 8
     learnset MOVE_HYPER_FANG, 12
-    learnset MOVE_FEINT_ATTACK, 15
+    learnset MOVE_METRONOME, 15
     learnset MOVE_TRAILBLAZE, 18
     learnset MOVE_SWEET_SCENT, 22
     learnset MOVE_PLAY_NICE, 25
@@ -5600,7 +5613,13 @@ levelup SPECIES_TEDDIURSA
 
 
 levelup SPECIES_URSARING
-    learnset MOVE_HAMMER_ARM, 1
+    learnset MOVE_HONE_CLAWS, 5
+    learnset MOVE_FURY_SWIPES, 8
+    learnset MOVE_HYPER_FANG, 12
+    learnset MOVE_FEINT_ATTACK, 15
+    learnset MOVE_HAMMER_ARM, 18
+    learnset MOVE_SWEET_SCENT, 22
+    learnset MOVE_METRONOME, 26
     learnset MOVE_FLAMETHROWER, 30
     learnset MOVE_MEGA_PUNCH, 30
     learnset MOVE_DYNAMIC_PUNCH, 34
@@ -7311,7 +7330,7 @@ levelup SPECIES_SURSKIT
     learnset MOVE_TRAILBLAZE, 7
     learnset MOVE_SWEET_SCENT, 9
     learnset MOVE_BUG_BITE, 12
-    learnset MOVE_WATER_SPORT, 14
+    learnset MOVE_WATER_GUN, 14
     learnset MOVE_BUBBLE_BEAM, 17
     learnset MOVE_U_TURN, 18
     learnset MOVE_WORK_UP, 20
@@ -7329,6 +7348,10 @@ levelup SPECIES_MASQUERAIN
     learnset MOVE_WHIRLWIND, 1
     learnset MOVE_BUG_BUZZ, 1
     learnset MOVE_OMINOUS_WIND, 1
+    learnset MOVE_TRAILBLAZE, 7
+    learnset MOVE_SWEET_SCENT, 9
+    learnset MOVE_BUG_BITE, 12
+    learnset MOVE_WATER_GUN, 14
     learnset MOVE_SCARY_FACE, 22
     learnset MOVE_AIR_CUTTER, 22
     learnset MOVE_OMINOUS_WIND, 24
@@ -8792,10 +8815,10 @@ levelup SPECIES_CORPHISH
     learnset MOVE_HARDEN, 1
     learnset MOVE_BUBBLE, 1
     learnset MOVE_HARDEN, 5
-    learnset MOVE_LEER, 6
+    learnset MOVE_METAL_CLAW, 6
     learnset MOVE_VICE_GRIP, 7
     learnset MOVE_BUBBLE_BEAM, 12
-    learnset MOVE_HONE_CLAWS, 15
+    learnset MOVE_HONE_CLAWS, 14
     learnset MOVE_KNOCK_OFF, 19
     learnset MOVE_TAUNT, 20
     learnset MOVE_DOUBLE_HIT, 20
@@ -11557,7 +11580,7 @@ levelup SPECIES_HIPPOWDON
 levelup SPECIES_SKORUPI
     learnset MOVE_POISON_STING, 1
     learnset MOVE_LEER, 1
-    learnset MOVE_BITE, 1
+    learnset MOVE_BUG_BITE, 1
     learnset MOVE_BITE, 12
     learnset MOVE_HONE_CLAWS, 15
     learnset MOVE_POISON_FANG, 15
@@ -14772,10 +14795,11 @@ levelup SPECIES_SCRAGGY
     learnset MOVE_HEADBUTT, 8
     learnset MOVE_SAND_ATTACK, 8
     learnset MOVE_FEINT_ATTACK, 9
-    learnset MOVE_PAYBACK, 11
+    learnset MOVE_HEADBUTT, 11
     learnset MOVE_POWER_UP_PUNCH, 13
     learnset MOVE_LOW_KICK, 16
-    learnset MOVE_PROTECT, 20
+    learnset MOVE_PAYBACK, 18
+    learnset MOVE_DETECT, 20
     learnset MOVE_RAPID_SPIN, 22
     learnset MOVE_BEAT_UP, 24
     learnset MOVE_SWAGGER, 24
