@@ -4934,7 +4934,7 @@ mondata SPECIES_STANTLER, "Stantler"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_SITRUS_BERRY, ITEM_LUM_BERRY
     genderratio 127
     eggcycles 20
     basefriendship 70
