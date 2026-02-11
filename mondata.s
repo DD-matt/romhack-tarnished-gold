@@ -2708,7 +2708,7 @@ mondata SPECIES_TAUROS, "Tauros"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_LIFE_ORB, ITEM_LUM_BERRY
     genderratio 0
     eggcycles 20
     basefriendship 50
@@ -11736,7 +11736,7 @@ mondata SPECIES_STOUTLAND, "Stoutland"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_SITRUS_BERRY, ITEM_SITRUS_BERRY
     genderratio 127
     eggcycles 15
     basefriendship 50
@@ -12282,7 +12282,7 @@ mondata SPECIES_CONKELDURR, "Conkeldurr"
     catchrate 35
     baseexp 0 // defined in baseexp.s
     evyields 2, 1, 1, 1, 1, 1
-    items ITEM_NONE, ITEM_NONE
+    items ITEM_FLAME_ORB, ITEM_FLAME_ORB
     genderratio 63
     eggcycles 20
     basefriendship 50
